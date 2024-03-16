@@ -1,0 +1,102 @@
+ body {
+     background-color:gray;
+ }
+
+ .container {
+     background-color: lemonchiffon;
+     width: 40%;
+  
+     position: absolute;
+     top:8%;
+
+     left:25%;
+     padding: 35px;
+     margin-top:10px;
+margin-bottom: 20px;
+     border-radius: 10px;
+     
+ }
+
+ .timedis {
+     background-color: lavender;
+     width:25%;
+     position: relative;
+     left:35%;
+     padding:20px;
+     font-size: 20px;
+     font-family: cursive;
+     align-items: center;
+     justify-content: space-evenly;
+     display: flex;
+     border-radius:  5px;
+     box-shadow: 0 0 10px rgba(50, 50, 40, 1);
+ }
+
+ .btns {
+     
+     width:80%;
+     margin: 60px auto 0 auto;
+     display: flex;
+     justify-content: space-around;
+ }
+
+ .btns button{
+     width: 120px;
+     height:45px;
+     background-color: lavender;
+     color: black;
+     font-family: cursive;
+     font-size: 20px;
+     margin-left: 20px;
+     
+     border-radius: 5px;
+     cursor:pointer;
+     border-color: burlywood;
+     box-shadow: 0 0 10px rgba(50, 50, 40, 1);
+ }
+
+ .btns button:nth-last-child(2) {
+     background-color: lightpink;
+ }
+
+ .btns button:nth-last-child(4) {
+    background-color: lightpink;
+}
+
+ .btns button:nth-last-child(1) {
+    background-color: lightpink;
+}
+
+.btns button:nth-last-child(3) {
+    background-color: lightpink;
+}
+
+
+#fourth {
+    
+     position: absolute;
+    padding:50px;
+    margin-top: 40px;
+   margin-left: 135px;
+    width: 260x;
+    height:279px;
+  border-radius: 5px;
+  font-size: 19px;
+}
+
+#tablehead {
+  
+}
+#thead
+{background-color: lavender;
+    font-family: cursive;
+   color:black;
+   font-size: 22px;
+   text-align: center;
+}
+#tableBody{
+    background-color: lavender;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+

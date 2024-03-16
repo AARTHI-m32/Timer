@@ -1,0 +1,35 @@
+ body {
+     background-color: gray;
+     
+ }
+ h1{
+    font-family: cursive;
+ }
+
+ .image{
+     padding-top: 6px;
+    margin-left: 150px;
+     display: flex; 
+  align-items: center; 
+    
+ }
+
+ .btn {
+    margin-left: 190px;
+    margin-top: 10px; 
+    font-size: 55px;
+    font-family: cursive;
+    
+ }
+
+ .btn button{
+     background-color: whitesmoke;
+     width: 400px;
+     height:65px;
+    font-size: 35px;
+    font-family: cursive;
+    color: hotpink;
+    margin-bottom: 70px;
+   border-radius: 5px;
+   border-color: burlywood;
+ }
